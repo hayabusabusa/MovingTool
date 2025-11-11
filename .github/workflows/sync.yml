@@ -19,5 +19,6 @@ jobs:
       with:
         node-version: 24
         cache: 'npm'
+    - run: cd cli
     - run: npm ci
     - run: npm run build
