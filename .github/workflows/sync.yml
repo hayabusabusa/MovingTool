@@ -12,6 +12,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: cli
 
     steps:
     - uses: actions/checkout@v5
@@ -19,6 +22,6 @@ jobs:
       with:
         node-version: 24
         cache: 'npm'
-    - run: cd cli
+        cache-dependency-path: cli/package-lock.json
     - run: npm ci
     - run: npm run build
