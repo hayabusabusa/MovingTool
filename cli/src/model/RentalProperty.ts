@@ -8,6 +8,11 @@ export interface RentalProperty {
     id: string;
 
     /**
+     * 物件名
+     */
+    name: string;
+
+    /**
      * 物件の住所
      */
     address: string;
