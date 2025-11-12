@@ -21,6 +21,8 @@ export class PaginationScrapingRepositoryImpl implements ScrapingRepository<numb
         // ol 要素内の全ての li 要素を取得
         const liElements = paginationElement.querySelectorAll("li");
         
+        // 最終的なページ数
+        let page = 1;
         // 最後の li 要素から順に、数値が含まれる要素を探す
         for (let i = liElements.length - 1; i >= 0; i--) {
             const element = liElements[i];
@@ -29,12 +31,12 @@ export class PaginationScrapingRepositoryImpl implements ScrapingRepository<numb
             const text = element.textContent?.trim() || "";
             const pageNumber = Number.parseInt(text, 10);
             
-            // 数値として有効な値が取得できた場合はそれを返す
+            // 数値として有効な値が取得できた場合はそれを最終的なページ数として終了
             if (!Number.isNaN(pageNumber) && pageNumber > 0) {
-                return pageNumber;
+                page = pageNumber;
+                break;
             }
         }
-
-        return 0;
+        return page;
     }
 }
