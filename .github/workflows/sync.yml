@@ -4,14 +4,15 @@
 name: Sync with CLI
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 11 * * *'
 
 jobs:
-  build:
+  sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     defaults:
       run:
         working-directory: cli
@@ -25,3 +26,24 @@ jobs:
         cache-dependency-path: cli/package-lock.json
     - run: npm ci
     - run: npm run build
+
+    - name: Run CLI
+      run: npx tool-cli
+    
+    - name: Check for changes
+      id: check_changes
+      run: |
+        git add output/*.json
+        if git diff --cached --quiet; then
+          echo "has_changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.has_changes == 'true'
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -m "[skip ci] chore: JSON ファイルを同期"
+        git push
