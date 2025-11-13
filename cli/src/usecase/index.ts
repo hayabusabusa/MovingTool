@@ -1,5 +1,5 @@
 import type { FetchRepository, FileRepository, ScrapingRepository } from "../repository/index.ts";
-import type { RentalProperty } from "../model/index.ts";
+import type { PageInformation, RentalProperty } from "../model/index.ts";
 
 export class UseCase {
     constructor(
@@ -34,10 +34,19 @@ export class UseCase {
 
         // 各ページの物件情報をスクレイピング
         const allProperties = htmls.map((element) => this.rentalPropertyScrapingRepository.scrape(element));
+        // ページ情報を作成
+        const pageInformation: PageInformation = {
+            totalPages: totalPages,
+            totalProperties: allProperties.reduce((sum, properties) => sum + properties.length, 0),
+            updatedAt: Math.floor(Date.now() / 1000),
+        };
+
         const path = "./output";
         // 各ページの物件情報をJSONファイルとして保存
         await Promise.all(
             allProperties.map((properties, index) => this.fileRepository.save(`${path}/${index + 1}.json`, JSON.stringify(properties, null, 2)))
         );
+        // ページ情報をJSONファイルとして保存
+        await this.fileRepository.save(`${path}/pi.json`, JSON.stringify(pageInformation, null, 2));
     }
 }
