@@ -4,6 +4,7 @@
 name: Sync with CLI
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 11 * * *'
 
