@@ -3,6 +3,7 @@
 import { UseCase } from "./usecase/index.ts";
 import { 
     FetchRepositoryImpl,
+    FileRepositoryImpl,
     LoggerImpl,
     PaginationScrapingRepositoryImpl, 
     RentalPropertyScrapingRepositoryImpl
@@ -14,6 +15,7 @@ const main = async () => {
     try {    
         const useCase = new UseCase(
             new FetchRepositoryImpl(),
+            new FileRepositoryImpl(),
             new PaginationScrapingRepositoryImpl(),
             new RentalPropertyScrapingRepositoryImpl(logger)
         );

@@ -1,9 +1,10 @@
-import type { FetchRepository, ScrapingRepository } from "../repository/index.ts";
+import type { FetchRepository, FileRepository, ScrapingRepository } from "../repository/index.ts";
 import type { RentalProperty } from "../model/index.ts";
 
 export class UseCase {
     constructor(
         private readonly fetchRepository: FetchRepository,
+        private readonly fileRepository: FileRepository,
         private readonly paginationScrapingRepository: ScrapingRepository<number>,
         private readonly rentalPropertyScrapingRepository: ScrapingRepository<RentalProperty[]>
     ) {}
@@ -32,7 +33,11 @@ export class UseCase {
         }
 
         // 各ページの物件情報をスクレイピング
-        const properties = htmls.map((element) => this.rentalPropertyScrapingRepository.scrape(element)).flat();
-        console.log(properties);
+        const allProperties = htmls.map((element) => this.rentalPropertyScrapingRepository.scrape(element));
+        const path = "./output";
+        // 各ページの物件情報をJSONファイルとして保存
+        await Promise.all(
+            allProperties.map((properties, index) => this.fileRepository.save(`${path}/${index + 1}.json`, JSON.stringify(properties, null, 2)))
+        );
     }
 }
