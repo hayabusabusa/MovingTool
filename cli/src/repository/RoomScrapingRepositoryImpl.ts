@@ -169,6 +169,7 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                     securityDeposit: securityDeposit,
                     keyMoney: keyMoney,
                     url: url,
+                    nearStations: [],
                     thumbnailUrl: thumbnailUrl,
                     imageUrls: imageUrls,
                 };

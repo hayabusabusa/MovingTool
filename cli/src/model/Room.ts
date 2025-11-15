@@ -58,6 +58,11 @@ export interface Room {
     url: string;
 
     /**
+     * 最寄り駅情報一覧
+     */
+    nearStations: NearStation[];
+
+    /**
      * 物件のサムネイル画像URL
      */
     thumbnailUrl: string;
@@ -66,4 +71,19 @@ export interface Room {
      * 物件の画像URL一覧
      */
     imageUrls: string[];
+}
+
+/**
+ * 最寄り駅情報のモデル
+ */
+export interface NearStation {
+    /**
+     * 駅名
+     */
+    name: string;
+
+    /**
+     * 駅までの徒歩時間（分）
+     */
+    walkTimeMinutes: number;
 }
