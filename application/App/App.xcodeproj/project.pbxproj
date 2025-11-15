@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A31B78312EC8BA820048F316 /* AppFeature in Frameworks */ = {isa = PBXBuildFile; productRef = A31B78302EC8BA820048F316 /* AppFeature */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A31B78072EC615950048F316 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -52,6 +56,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A31B78312EC8BA820048F316 /* AppFeature in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +83,7 @@
 				A31B77FB2EC615950048F316 /* App */,
 				A31B78092EC615950048F316 /* AppTests */,
 				A31B78132EC615950048F316 /* AppUITests */,
+				A31B782F2EC8BA820048F316 /* Frameworks */,
 				A31B77FA2EC615950048F316 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +96,13 @@
 				A31B78102EC615950048F316 /* AppUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A31B782F2EC8BA820048F316 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -112,6 +125,7 @@
 			);
 			name = App;
 			packageProductDependencies = (
+				A31B78302EC8BA820048F316 /* AppFeature */,
 			);
 			productName = App;
 			productReference = A31B77F92EC615950048F316 /* App.app */;
@@ -398,6 +412,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Moving;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -431,6 +446,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Moving;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -574,6 +590,13 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A31B78302EC8BA820048F316 /* AppFeature */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = AppFeature;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A31B77F12EC615950048F316 /* Project object */;
 }
