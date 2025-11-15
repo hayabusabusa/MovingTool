@@ -12,8 +12,16 @@ let package = Package(
             targets: ["APIClient"]
         ),
         .library(
+            name: "AppFeature",
+            targets: ["AppFeature"]
+        ),
+        .library(
             name: "GeocodingClient",
             targets: ["GeocodingClient"]
+        ),
+        .library(
+            name: "MovingMapFeature",
+            targets: ["MovingMapFeature"]
         ),
         .library(
             name: "SharedModels",
@@ -40,11 +48,26 @@ let package = Package(
             ],
         ),
         .target(
+            name: "AppFeature",
+            dependencies: [
+                "MovingMapFeature",
+            ],
+        ),
+        .target(
             name: "GeocodingClient",
             dependencies: [
                 "SharedModels",
                 .product(name: "Dependencies", package: "swift-dependencies"),
                 .product(name: "DependenciesMacros", package: "swift-dependencies"),
+            ],
+        ),
+        .target(
+            name: "MovingMapFeature",
+            dependencies: [
+                "APIClient",
+                "GeocodingClient",
+                "SharedModels",
+                .product(name: "Dependencies", package: "swift-dependencies"),
             ],
         ),
         .target(
