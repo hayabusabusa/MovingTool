@@ -14,7 +14,7 @@ const main = async () => {
 
     try {    
         const useCase = new UseCase(
-            new FetchRepositoryImpl(),
+            new FetchRepositoryImpl(logger),
             new FileRepositoryImpl(),
             new PaginationScrapingRepositoryImpl(),
             new RoomScrapingRepositoryImpl(logger)
