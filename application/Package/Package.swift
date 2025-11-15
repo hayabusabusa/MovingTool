@@ -8,11 +8,33 @@ let package = Package(
     platforms: [.iOS(.v26)],
     products: [
         .library(
+            name: "APIClient",
+            targets: ["APIClient"]
+        ),
+        .library(
             name: "SharedModels",
             targets: ["SharedModels"]
         ),
     ],
+    dependencies: [
+        .package(
+            url: "https://github.com/pointfreeco/swift-dependencies.git",
+            exact: "1.10.0"
+        ),
+        .package(
+            url: "https://github.com/kean/Nuke.git",
+            exact: "12.8.0"
+        )
+    ],
     targets: [
+        .target(
+            name: "APIClient",
+            dependencies: [
+                "SharedModels",
+                .product(name: "Dependencies", package: "swift-dependencies"),
+                .product(name: "DependenciesMacros", package: "swift-dependencies"),
+            ],
+        ),
         .target(
             name: "SharedModels"
         ),
