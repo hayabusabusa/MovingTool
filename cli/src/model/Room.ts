@@ -1,7 +1,7 @@
 /**
  * 賃貸物件のモデル
  */
-export interface RentalProperty {
+export interface Room {
     /**
      * ID
      */

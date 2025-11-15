@@ -4,7 +4,7 @@ import type { FileRepository } from "./FileRepository.ts";
 import { FileRepositoryImpl } from "./FileRepository.ts";
 import type { ScrapingRepository } from "./ScrapingRepository.ts";
 import { PaginationScrapingRepositoryImpl } from "./PaginationScrapingRepositoryImpl.ts";
-import { RentalPropertyScrapingRepositoryImpl } from "./RentalPropertyScrapingRepositoryImpl.ts";
+import { RoomScrapingRepositoryImpl } from "./RoomScrapingRepositoryImpl.ts";
 import type { Logger } from "./Logger.ts";
 import { LoggerImpl } from "./Logger.ts";
 
@@ -20,5 +20,5 @@ export {
     FileRepositoryImpl,
     LoggerImpl,
     PaginationScrapingRepositoryImpl,
-    RentalPropertyScrapingRepositoryImpl
+    RoomScrapingRepositoryImpl
 };
