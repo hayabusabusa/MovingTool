@@ -38,6 +38,23 @@ public struct Room: Sendable, Identifiable, Hashable, Codable {
     /// 物件の画像URL一覧
     public let imageURLs: [String]
 
+    private enum CodingKeys: String, CodingKey {
+        case id
+        case name
+        case address
+        case layout
+        case area
+        case floor
+        case age
+        case rent
+        case securityDeposit
+        case keyMoney
+        case url
+        case nearStations
+        case thumbnailURL = "thumbnailUrl"
+        case imageURLs = "imageUrls"
+    }
+
     public init(
         id: String,
         name: String,
