@@ -5,8 +5,8 @@ import {
     FetchRepositoryImpl,
     FileRepositoryImpl,
     LoggerImpl,
-    PaginationScrapingRepositoryImpl, 
-    RentalPropertyScrapingRepositoryImpl
+    PaginationScrapingRepositoryImpl,
+    RoomScrapingRepositoryImpl
 } from "./repository/index.ts";
 
 const main = async () => {
@@ -14,10 +14,10 @@ const main = async () => {
 
     try {    
         const useCase = new UseCase(
-            new FetchRepositoryImpl(),
+            new FetchRepositoryImpl(logger),
             new FileRepositoryImpl(),
             new PaginationScrapingRepositoryImpl(),
-            new RentalPropertyScrapingRepositoryImpl(logger)
+            new RoomScrapingRepositoryImpl(logger)
         );
         await useCase.execute();
 

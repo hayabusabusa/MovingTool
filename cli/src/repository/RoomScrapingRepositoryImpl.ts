@@ -1,21 +1,20 @@
 import { JSDOM } from "jsdom";
 
-import type { RentalProperty } from "../model/index.ts";
+import type { Room } from "../model/index.ts";
 import type { ScrapingRepository } from "./ScrapingRepository.ts";
 import type { Logger } from "./Logger.ts";
 
 /**
  * html ファイルを文字列で受け取り、賃貸物件情報を抽出する Repository の実装.
  */
-export class RentalPropertyScrapingRepositoryImpl implements ScrapingRepository<RentalProperty[]> {
+export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
     constructor(private readonly logger: Logger) {}
 
-    scrape(htmlText: string): RentalProperty[] {
+    scrape(htmlText: string): Room[] {
         const dom = new JSDOM(htmlText);
         const document = dom.window.document;
 
-        // ここで document を使って必要なデータを抽出し、RentalProperty[] を生成する
-        const properties: RentalProperty[] = [];
+        const rooms: Room[] = [];
         // cassetteitem クラスを持つ div 要素を全て取得（各物件の要素）
         const cassetteItems = document.querySelectorAll(".cassetteitem");
         cassetteItems.forEach((item, itemIndex) => {
@@ -43,6 +42,39 @@ export class RentalPropertyScrapingRepositoryImpl implements ScrapingRepository<
                 const ageMatch = ageText?.match(/築(\d+)年/);
                 age = ageMatch?.[1] ? Number.parseInt(ageMatch[1], 10) : undefined;
             }
+
+            // 最寄駅情報を取得
+            const nearStationElements = item.querySelectorAll(".cassetteitem_detail-col2 .cassetteitem_detail-text");
+            const nearStations = Array.from(nearStationElements)
+                .map(element => {
+                    const text = element.textContent?.trim();
+                    if (!text) {
+                        return null;
+                    }
+
+                    // "京成本線/京成船橋駅 歩7分" のような文字列から駅名と徒歩時間を抽出
+                    // パターン: "路線名/駅名 歩X分" または "駅名 歩X分"
+                    const match = text.match(/(?:.*\/)?(.+?)\s+歩(\d+)分/);
+                    if (!match) { 
+                        return null;
+                    }
+
+                    const name = match[1]?.trim();
+                    const walkTimeMinutes = match[2] ? Number.parseInt(match[2], 10) : undefined;
+
+                    if (
+                        name === undefined || 
+                        walkTimeMinutes === undefined
+                    ) {
+                        return null;
+                    }
+
+                    return {
+                        name,
+                        walkTimeMinutes,
+                    };
+                })
+                .filter((station): station is { name: string; walkTimeMinutes: number } => station !== null);
             
             // 必須項目が欠けている場合は物件情報の取得をスキップ
             if (
@@ -158,7 +190,7 @@ export class RentalPropertyScrapingRepositoryImpl implements ScrapingRepository<
                 }
 
                 // 物件データを構築
-                const property: RentalProperty = {
+                const model: Room = {
                     id: id,
                     name: title,
                     address: address,
@@ -170,17 +202,18 @@ export class RentalPropertyScrapingRepositoryImpl implements ScrapingRepository<
                     securityDeposit: securityDeposit,
                     keyMoney: keyMoney,
                     url: url,
+                    nearStations: nearStations,
                     thumbnailUrl: thumbnailUrl,
                     imageUrls: imageUrls,
                 };
-                properties.push(property);
+                rooms.push(model);
             });
         });
 
         // データが 0 件の場合はエラーを投げる
-        if (properties.length === 0) {
+        if (rooms.length === 0) {
             throw new Error("No rental properties found in the provided HTML.");
         }
-        return properties;
+        return rooms;
     }
 }
