@@ -52,9 +52,8 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                         return null;
                     }
 
-                    // "京成本線/京成船橋駅 歩7分" のような文字列から駅名と徒歩時間を抽出
-                    // パターン: "路線名/駅名 歩X分" または "駅名 歩X分"
-                    const match = text.match(/(?:.*\/)?(.+?)\s+歩(\d+)分/);
+                    // "京成本線/京成船橋駅 歩7分" のような文字列から駅名と徒歩時間を抽出、駅名部分は路線名を含めて取得する（"京成本線/京成船橋駅"）
+                    const match = text.match(/(.+?)\s+歩(\d+)分/);
                     if (!match) { 
                         return null;
                     }
