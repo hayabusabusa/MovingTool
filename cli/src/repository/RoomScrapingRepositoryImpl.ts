@@ -42,6 +42,39 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                 const ageMatch = ageText?.match(/築(\d+)年/);
                 age = ageMatch?.[1] ? Number.parseInt(ageMatch[1], 10) : undefined;
             }
+
+            // 最寄駅情報を取得
+            const nearStationElements = item.querySelectorAll(".cassetteitem_detail-col2 .cassetteitem_detail-text");
+            const nearStations = Array.from(nearStationElements)
+                .map(element => {
+                    const text = element.textContent?.trim();
+                    if (!text) {
+                        return null;
+                    }
+
+                    // "京成本線/京成船橋駅 歩7分" のような文字列から駅名と徒歩時間を抽出
+                    // パターン: "路線名/駅名 歩X分" または "駅名 歩X分"
+                    const match = text.match(/(?:.*\/)?(.+?)\s+歩(\d+)分/);
+                    if (!match) { 
+                        return null;
+                    }
+
+                    const name = match[1]?.trim();
+                    const walkTimeMinutes = match[2] ? Number.parseInt(match[2], 10) : undefined;
+
+                    if (
+                        name === undefined || 
+                        walkTimeMinutes === undefined
+                    ) {
+                        return null;
+                    }
+
+                    return {
+                        name,
+                        walkTimeMinutes,
+                    };
+                })
+                .filter((station): station is { name: string; walkTimeMinutes: number } => station !== null);
             
             // 必須項目が欠けている場合は物件情報の取得をスキップ
             if (
@@ -169,7 +202,7 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                     securityDeposit: securityDeposit,
                     keyMoney: keyMoney,
                     url: url,
-                    nearStations: [],
+                    nearStations: nearStations,
                     thumbnailUrl: thumbnailUrl,
                     imageUrls: imageUrls,
                 };
