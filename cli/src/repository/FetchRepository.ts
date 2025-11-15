@@ -23,7 +23,7 @@ export class FetchRepositoryImpl implements FetchRepository {
         if (!response.ok) {
             throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
         }
-        this.logger.info(`Fetched ${url}: ${response.statusText}`);
+        this.logger.info(`Successfully fetched ${url}`);
         return response.text();
     }
 }
