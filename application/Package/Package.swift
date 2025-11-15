@@ -12,6 +12,10 @@ let package = Package(
             targets: ["APIClient"]
         ),
         .library(
+            name: "GeocodingClient",
+            targets: ["GeocodingClient"]
+        ),
+        .library(
             name: "SharedModels",
             targets: ["SharedModels"]
         ),
@@ -29,6 +33,14 @@ let package = Package(
     targets: [
         .target(
             name: "APIClient",
+            dependencies: [
+                "SharedModels",
+                .product(name: "Dependencies", package: "swift-dependencies"),
+                .product(name: "DependenciesMacros", package: "swift-dependencies"),
+            ],
+        ),
+        .target(
+            name: "GeocodingClient",
             dependencies: [
                 "SharedModels",
                 .product(name: "Dependencies", package: "swift-dependencies"),
