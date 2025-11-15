@@ -13,15 +13,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102028391/?bc=100469125628",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 14
       },
       {
-        "name": "海神駅",
+        "name": "京成本線/海神駅",
         "walkTimeMinutes": 13
       }
     ],
@@ -63,15 +63,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102028390/?bc=100467813963",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 14
       },
       {
-        "name": "海神駅",
+        "name": "京成本線/海神駅",
         "walkTimeMinutes": 13
       }
     ],
@@ -106,15 +106,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102731654/?bc=100471973756",
     "nearStations": [
       {
-        "name": "市川駅",
+        "name": "ＪＲ総武線/市川駅",
         "walkTimeMinutes": 6
       },
       {
-        "name": "市川真間駅",
+        "name": "京成本線/市川真間駅",
         "walkTimeMinutes": 15
       },
       {
-        "name": "国府台駅",
+        "name": "京成本線/国府台駅",
         "walkTimeMinutes": 12
       }
     ],
@@ -156,15 +156,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102746548/?bc=100472527968",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 6
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 16
       }
     ],
@@ -206,15 +206,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101084252/?bc=100462556389",
     "nearStations": [
       {
-        "name": "市川駅",
+        "name": "ＪＲ総武線/市川駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "国府台駅",
+        "name": "京成本線/国府台駅",
         "walkTimeMinutes": 2
       },
       {
-        "name": "矢切駅 バス15分 (バス停)国府台駅",
+        "name": "北総線/矢切駅 バス15分 (バス停)国府台駅",
         "walkTimeMinutes": 4
       }
     ],
@@ -256,15 +256,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101337367/?bc=100458839919",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 11
       }
     ],
@@ -304,15 +304,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102476892/?bc=100453060241",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 12
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 13
       }
     ],
@@ -354,15 +354,15 @@
     "url": "https://suumo.jp/chintai/jnc_000100625693/?bc=100453079786",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 12
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 13
       }
     ],
@@ -404,15 +404,15 @@
     "url": "https://suumo.jp/chintai/jnc_000099524746/?bc=100444610648",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 9
       }
     ],
@@ -454,15 +454,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102501209/?bc=100470337219",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 9
       }
     ],
@@ -504,15 +504,15 @@
     "url": "https://suumo.jp/chintai/jnc_000099529051/?bc=100472376063",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 8
       }
     ],
@@ -552,15 +552,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102511932/?bc=100470259049",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 8
       }
     ],
@@ -602,15 +602,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102787806/?bc=100472435594",
     "nearStations": [
       {
-        "name": "市川駅",
+        "name": "ＪＲ総武線/市川駅",
         "walkTimeMinutes": 2
       },
       {
-        "name": "市川駅",
+        "name": "ＪＲ総武線快速/市川駅",
         "walkTimeMinutes": 2
       },
       {
-        "name": "市川真間駅",
+        "name": "京成本線/市川真間駅",
         "walkTimeMinutes": 7
       }
     ],
@@ -651,15 +651,15 @@
     "url": "https://suumo.jp/chintai/jnc_000061245068/?bc=100472435596",
     "nearStations": [
       {
-        "name": "市川駅",
+        "name": "ＪＲ総武線/市川駅",
         "walkTimeMinutes": 2
       },
       {
-        "name": "市川駅",
+        "name": "ＪＲ総武線快速/市川駅",
         "walkTimeMinutes": 2
       },
       {
-        "name": "市川真間駅",
+        "name": "京成本線/市川真間駅",
         "walkTimeMinutes": 7
       }
     ],
@@ -700,15 +700,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101578337/?bc=100461029500",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 15
       }
     ],
@@ -750,15 +750,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102641384/?bc=100471595660",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 15
       }
     ],
@@ -800,15 +800,15 @@
     "url": "https://suumo.jp/chintai/jnc_000100625705/?bc=100442301361",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 15
       }
     ],
@@ -850,15 +850,15 @@
     "url": "https://suumo.jp/chintai/jnc_000100625706/?bc=100445559607",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 15
       }
     ],
@@ -900,15 +900,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102117095/?bc=100466976173",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 6
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 11
       }
     ],
@@ -950,15 +950,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102709478/?bc=100472273289",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 9
       }
     ],
@@ -1000,15 +1000,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101797383/?bc=100463240550",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 9
       }
     ],
@@ -1050,15 +1050,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102395338/?bc=100469269191",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 9
       }
     ],
@@ -1100,15 +1100,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102836209/?bc=100472484488",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 4
       },
       {
-        "name": "西船橋駅",
+        "name": "東京メトロ東西線/西船橋駅",
         "walkTimeMinutes": 4
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 12
       }
     ],
@@ -1150,15 +1150,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102836208/?bc=100472484489",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 4
       },
       {
-        "name": "西船橋駅",
+        "name": "東京メトロ東西線/西船橋駅",
         "walkTimeMinutes": 4
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 12
       }
     ],
@@ -1200,15 +1200,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102836211/?bc=100472803414",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "西船橋駅",
+        "name": "東京メトロ東西線/西船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ京葉線/西船橋駅",
         "walkTimeMinutes": 5
       }
     ],
@@ -1250,15 +1250,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102836210/?bc=100472803407",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "西船橋駅",
+        "name": "東京メトロ東西線/西船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ京葉線/西船橋駅",
         "walkTimeMinutes": 5
       }
     ],
@@ -1300,15 +1300,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102379110/?bc=100469269771",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 3
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 6
       }
     ],
@@ -1350,15 +1350,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102562884/?bc=100470855097",
     "nearStations": [
       {
-        "name": "市川駅",
+        "name": "ＪＲ総武線快速/市川駅",
         "walkTimeMinutes": 4
       },
       {
-        "name": "市川真間駅",
+        "name": "京成本線/市川真間駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "国府台駅",
+        "name": "京成本線/国府台駅",
         "walkTimeMinutes": 13
       }
     ],
@@ -1400,15 +1400,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102094984/?bc=100466500393",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 12
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 23
       }
     ],
@@ -1450,15 +1450,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101969938/?bc=100390370364",
     "nearStations": [
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "西船橋駅",
+        "name": "東京メトロ東西線/西船橋駅",
         "walkTimeMinutes": 10
       }
     ],
@@ -1499,11 +1499,11 @@
     "url": "https://suumo.jp/chintai/jnc_000101698747/?bc=100462172886",
     "nearStations": [
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 4
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 7
       }
     ],
@@ -1545,15 +1545,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101770851/?bc=100468501846",
     "nearStations": [
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 4
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "下総中山駅",
+        "name": "ＪＲ総武線/下総中山駅",
         "walkTimeMinutes": 12
       }
     ],
@@ -1595,15 +1595,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101783324/?bc=100463051007",
     "nearStations": [
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 4
       },
       {
-        "name": "下総中山駅",
+        "name": "ＪＲ総武線/下総中山駅",
         "walkTimeMinutes": 12
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 13
       }
     ],
@@ -1639,15 +1639,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102457637/?bc=100469758079",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "東船橋駅",
+        "name": "ＪＲ総武線/東船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 11
       }
     ],
@@ -1689,15 +1689,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101673273/?bc=100462059591",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "東船橋駅",
+        "name": "ＪＲ総武線/東船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 11
       }
     ],
@@ -1738,15 +1738,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101976967/?bc=100465419363",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 22
       }
     ],
@@ -1788,15 +1788,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102279336/?bc=100468030040",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "海神駅",
+        "name": "京成本線/海神駅",
         "walkTimeMinutes": 16
       }
     ],
@@ -1838,15 +1838,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102395365/?bc=100469210750",
     "nearStations": [
       {
-        "name": "下総中山駅",
+        "name": "ＪＲ総武線/下総中山駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 10
       }
     ],
@@ -1888,15 +1888,15 @@
     "url": "https://suumo.jp/chintai/jnc_000086000218/?bc=100470560473",
     "nearStations": [
       {
-        "name": "下総中山駅",
+        "name": "ＪＲ総武線/下総中山駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 14
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 9
       }
     ],
@@ -1938,15 +1938,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102395366/?bc=100469209834",
     "nearStations": [
       {
-        "name": "下総中山駅",
+        "name": "ＪＲ総武線/下総中山駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 14
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 9
       }
     ],
@@ -1988,15 +1988,15 @@
     "url": "https://suumo.jp/chintai/jnc_000100828039/?bc=100454610997",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 8
       }
     ],
@@ -2038,15 +2038,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101595648/?bc=100471315792",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 12
       }
     ],
@@ -2088,15 +2088,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102632287/?bc=100471315835",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 12
       }
     ],
@@ -2138,11 +2138,11 @@
     "url": "https://suumo.jp/chintai/jnc_000089500407/?bc=100471297762",
     "nearStations": [
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 15
       }
     ],
@@ -2178,15 +2178,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101864068/?bc=100462390952",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 9
       }
     ],
@@ -2227,15 +2227,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101864066/?bc=100463905401",
     "nearStations": [
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 10
       }
     ],
@@ -2277,11 +2277,11 @@
     "url": "https://suumo.jp/chintai/jnc_000098673545/?bc=100441692886",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 21
       }
     ],
@@ -2318,15 +2318,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102700314/?bc=100471754103",
     "nearStations": [
       {
-        "name": "下総中山駅",
+        "name": "ＪＲ総武線/下総中山駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 12
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 5
       }
     ],
@@ -2368,15 +2368,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102504937/?bc=100429314059",
     "nearStations": [
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "新船橋駅",
+        "name": "東武野田線/新船橋駅",
         "walkTimeMinutes": 17
       }
     ],
@@ -2418,15 +2418,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102135229/?bc=100468829365",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "新船橋駅",
+        "name": "東武野田線/新船橋駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 11
       }
     ],
@@ -2468,15 +2468,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102605300/?bc=100471198501",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 15
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 3
       },
       {
-        "name": "南船橋駅",
+        "name": "ＪＲ京葉線/南船橋駅",
         "walkTimeMinutes": 21
       }
     ],
@@ -2513,15 +2513,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102205637/?bc=100467454110",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "原木中山駅",
+        "name": "東京メトロ東西線/原木中山駅",
         "walkTimeMinutes": 18
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 14
       }
     ],
@@ -2563,15 +2563,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102379132/?bc=100468964445",
     "nearStations": [
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 13
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 19
       }
     ],
@@ -2607,15 +2607,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101757755/?bc=100463046463",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 14
       },
       {
-        "name": "原木中山駅",
+        "name": "東京メトロ東西線/原木中山駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 20
       }
     ],
@@ -2657,15 +2657,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102476872/?bc=100471297389",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 14
       },
       {
-        "name": "原木中山駅",
+        "name": "東京メトロ東西線/原木中山駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 20
       }
     ],
@@ -2707,15 +2707,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102700311/?bc=100447950085",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 15
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "船橋法典駅",
+        "name": "ＪＲ武蔵野線/船橋法典駅",
         "walkTimeMinutes": 29
       }
     ],
@@ -2751,15 +2751,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102385927/?bc=100469034460",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 9
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 7
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 12
       }
     ],
@@ -2801,15 +2801,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102169153/?bc=100467162955",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "西船橋駅",
+        "name": "東京メトロ東西線/西船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ京葉線/西船橋駅",
         "walkTimeMinutes": 5
       }
     ],
@@ -2851,15 +2851,15 @@
     "url": "https://suumo.jp/chintai/jnc_000101486397/?bc=100463697242",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "海神駅",
+        "name": "京成本線/海神駅",
         "walkTimeMinutes": 15
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 19
       }
     ],
@@ -2901,15 +2901,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102279326/?bc=100468030015",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 11
       },
       {
-        "name": "海神駅",
+        "name": "京成本線/海神駅",
         "walkTimeMinutes": 15
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 19
       }
     ],
@@ -2951,15 +2951,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102107970/?bc=100466653451",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 10
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 10
       }
     ],
@@ -2997,15 +2997,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102443056/?bc=100469603886",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 3
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 3
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 10
       }
     ],
@@ -3041,15 +3041,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102746538/?bc=100468935115",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "西船橋駅",
+        "name": "東京メトロ東西線/西船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ武蔵野線/西船橋駅",
         "walkTimeMinutes": 8
       }
     ],
@@ -3087,15 +3087,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102746537/?bc=100468984629",
     "nearStations": [
       {
-        "name": "西船橋駅",
+        "name": "ＪＲ総武線/西船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "京成西船駅",
+        "name": "京成本線/京成西船駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "東中山駅",
+        "name": "京成本線/東中山駅",
         "walkTimeMinutes": 17
       }
     ],
@@ -3131,15 +3131,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102250753/?bc=100464493779",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 6
       },
       {
-        "name": "大神宮下駅",
+        "name": "京成本線/大神宮下駅",
         "walkTimeMinutes": 13
       }
     ],
@@ -3181,15 +3181,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102250754/?bc=100443088787",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線快速/船橋駅",
         "walkTimeMinutes": 5
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 6
       },
       {
-        "name": "東海神駅",
+        "name": "東葉高速鉄道/東海神駅",
         "walkTimeMinutes": 15
       }
     ],
@@ -3231,15 +3231,15 @@
     "url": "https://suumo.jp/chintai/jnc_000102125097/?bc=100466749455",
     "nearStations": [
       {
-        "name": "船橋駅",
+        "name": "ＪＲ総武線/船橋駅",
         "walkTimeMinutes": 8
       },
       {
-        "name": "京成船橋駅",
+        "name": "京成本線/京成船橋駅",
         "walkTimeMinutes": 6
       },
       {
-        "name": "東船橋駅",
+        "name": "ＪＲ総武線/東船橋駅",
         "walkTimeMinutes": 22
       }
     ],
