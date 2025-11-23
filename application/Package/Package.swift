@@ -8,17 +8,74 @@ let package = Package(
     platforms: [.iOS(.v26)],
     products: [
         .library(
-            name: "Package",
-            targets: ["Package"]
+            name: "APIClient",
+            targets: ["APIClient"]
         ),
+        .library(
+            name: "AppFeature",
+            targets: ["AppFeature"]
+        ),
+        .library(
+            name: "GeocodingClient",
+            targets: ["GeocodingClient"]
+        ),
+        .library(
+            name: "MovingMapFeature",
+            targets: ["MovingMapFeature"]
+        ),
+        .library(
+            name: "SharedModels",
+            targets: ["SharedModels"]
+        ),
+    ],
+    dependencies: [
+        .package(
+            url: "https://github.com/pointfreeco/swift-dependencies.git",
+            exact: "1.10.0"
+        ),
+        .package(
+            url: "https://github.com/kean/Nuke.git",
+            exact: "12.8.0"
+        )
     ],
     targets: [
         .target(
-            name: "Package"
+            name: "APIClient",
+            dependencies: [
+                "SharedModels",
+                .product(name: "Dependencies", package: "swift-dependencies"),
+                .product(name: "DependenciesMacros", package: "swift-dependencies"),
+            ],
+        ),
+        .target(
+            name: "AppFeature",
+            dependencies: [
+                "MovingMapFeature",
+            ],
+        ),
+        .target(
+            name: "GeocodingClient",
+            dependencies: [
+                "SharedModels",
+                .product(name: "Dependencies", package: "swift-dependencies"),
+                .product(name: "DependenciesMacros", package: "swift-dependencies"),
+            ],
+        ),
+        .target(
+            name: "MovingMapFeature",
+            dependencies: [
+                "APIClient",
+                "GeocodingClient",
+                "SharedModels",
+                .product(name: "Dependencies", package: "swift-dependencies"),
+            ],
+        ),
+        .target(
+            name: "SharedModels"
         ),
         .testTarget(
             name: "PackageTests",
-            dependencies: ["Package"]
+            dependencies: ["SharedModels"]
         ),
     ]
 )

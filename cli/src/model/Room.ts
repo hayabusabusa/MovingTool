@@ -1,5 +1,5 @@
 /**
- * 賃貸物件のモデル
+ * 物件に紐づく部屋のモデル
  */
 export interface Room {
     /**
@@ -41,6 +41,11 @@ export interface Room {
      * 物件の賃料
      */
     rent: number;
+
+    /**
+     * 管理費・共益費
+     */
+    managementFee: number;
 
     /**
      * 敷金

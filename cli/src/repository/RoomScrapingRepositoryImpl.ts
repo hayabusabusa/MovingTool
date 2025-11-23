@@ -1,98 +1,78 @@
 import { JSDOM } from "jsdom";
 
-import type { Room } from "../model/index.ts";
+import type { Room, RentalProperty } from "../model/index.ts";
 import type { ScrapingRepository } from "./ScrapingRepository.ts";
 import type { Logger } from "./Logger.ts";
+import type { NearStation } from "../model/Room.ts";
 
 /**
  * html ファイルを文字列で受け取り、賃貸物件情報を抽出する Repository の実装.
  */
-export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
-    constructor(private readonly logger: Logger) {}
+export class RoomScrapingRepositoryImpl implements ScrapingRepository<RentalProperty[]> {
+    constructor(private readonly logger: Logger) { }
 
-    scrape(htmlText: string): Room[] {
+    scrape(htmlText: string): RentalProperty[] {
         const dom = new JSDOM(htmlText);
         const document = dom.window.document;
 
-        const rooms: Room[] = [];
+        const rentalProperties: RentalProperty[] = [];
         // cassetteitem クラスを持つ div 要素を全て取得（各物件の要素）
         const cassetteItems = document.querySelectorAll(".cassetteitem");
         cassetteItems.forEach((item, itemIndex) => {
             // 物件名を取得
-            const titleElement = item.querySelector(".cassetteitem_content-title");
-            const title = titleElement?.textContent?.trim();
+            const propertyTitleElement = item.querySelector(".cassetteitem_content-title");
+            const propertyTitle = propertyTitleElement?.textContent?.trim();
 
             // 住所を取得
-            const addressElement = item.querySelector(".cassetteitem_detail-col1");
-            const address = addressElement?.textContent?.trim();
+            const propertyAddressElement = item.querySelector(".cassetteitem_detail-col1");
+            const propertyAddress = propertyAddressElement?.textContent?.trim();
 
             // サムネイル URL を取得
-            const thumbnailElement = item.querySelector(".js-noContextMenu.js-linkImage.js-adjustImg");
-            const thumbnailUrl = thumbnailElement?.getAttribute("rel") || thumbnailElement?.getAttribute("src") || undefined;
+            const propertyThumbnailElement = item.querySelector(".js-noContextMenu.js-linkImage.js-adjustImg");
+            const propertyThumbnailUrl = propertyThumbnailElement?.getAttribute("rel") || propertyThumbnailElement?.getAttribute("src") || undefined;
+
+            // 物件の ID はサムネイル URL に含まれる `100469381599_gw.jpg` となっているファイル名から数値の部分のみを抜き出したものを利用する
+            const propertyThumbnailFileName = propertyThumbnailUrl?.split("/").pop();
+            const properyID = propertyThumbnailFileName?.match(/^(\d+)/)?.[1];
 
             // 築年数を取得
-            const ageElement = item.querySelector(".cassetteitem_detail-col3");
-            const ageText = ageElement?.querySelector("div")?.textContent?.trim();
-            let age: number | undefined;
-            if (ageText === "新築") {
+            const propertyAgeElement = item.querySelector(".cassetteitem_detail-col3");
+            const propertyAgeText = propertyAgeElement?.querySelector("div")?.textContent?.trim();
+            let propertyAge: number | undefined;
+            if (propertyAgeText === "新築") {
                 // 新築の場合は 0 とする
-                age = 0;
+                propertyAge = 0;
             } else {
                 // "築8年" のような文字列から数値を抽出
-                const ageMatch = ageText?.match(/築(\d+)年/);
-                age = ageMatch?.[1] ? Number.parseInt(ageMatch[1], 10) : undefined;
+                const ageMatch = propertyAgeText?.match(/築(\d+)年/);
+                propertyAge = ageMatch?.[1] ? Number.parseInt(ageMatch[1], 10) : undefined;
             }
 
             // 最寄駅情報を取得
             const nearStationElements = item.querySelectorAll(".cassetteitem_detail-col2 .cassetteitem_detail-text");
-            const nearStations = Array.from(nearStationElements)
-                .map(element => {
-                    const text = element.textContent?.trim();
-                    if (!text) {
-                        return null;
-                    }
+            const nearStations = this.scrapeNearStations(nearStationElements);
 
-                    // "京成本線/京成船橋駅 歩7分" のような文字列から駅名と徒歩時間を抽出、駅名部分は路線名を含めて取得する（"京成本線/京成船橋駅"）
-                    const match = text.match(/(.+?)\s+歩(\d+)分/);
-                    if (!match) { 
-                        return null;
-                    }
-
-                    const name = match[1]?.trim();
-                    const walkTimeMinutes = match[2] ? Number.parseInt(match[2], 10) : undefined;
-
-                    if (
-                        name === undefined || 
-                        walkTimeMinutes === undefined
-                    ) {
-                        return null;
-                    }
-
-                    return {
-                        name,
-                        walkTimeMinutes,
-                    };
-                })
-                .filter((station): station is { name: string; walkTimeMinutes: number } => station !== null);
-            
             // 必須項目が欠けている場合は物件情報の取得をスキップ
             if (
-                title === undefined || 
-                address === undefined || 
-                thumbnailUrl === undefined || 
-                age === undefined
+                propertyTitle === undefined ||
+                propertyAddress === undefined ||
+                propertyThumbnailUrl === undefined ||
+                properyID === undefined ||
+                propertyAge === undefined
             ) {
                 const fields = {
-                    title: title,
-                    address: address,
-                    thumbnailUrl: thumbnailUrl,
-                    age: age,
+                    propertyTitle: propertyTitle,
+                    propertyAddress: propertyAddress,
+                    propertyThumbnailUrl: propertyThumbnailUrl,
+                    properyID: properyID,
+                    propertyAge: propertyAge,
                 };
                 this.logger.info(`Skipping item at index ${itemIndex} due to missing mandatory fields.`);
                 this.logger.info(fields);
                 return;
             }
 
+            const rooms: Room[] = [];
             // 各部屋の情報を取得（js-cassette_link クラスを持つ tr 要素）
             const roomElements = item.querySelectorAll(".js-cassette_link");
             // 部屋ごとに RentalProperty を生成
@@ -102,8 +82,8 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                 const path = urlElement?.getAttribute("href");
                 const url = path ? `https://suumo.jp${path}` : undefined;
 
-                // ID は path の `chintai/jnc_000101337367/?bc=100466913782` となっている `bc=` 以降の値を利用する
-                const id = path?.match(/bc=(\d+)/)?.[1];
+                // ID は path の `chintai/jnc_000101337367/?bc=100466913782` となっている `jnc_` 以降の数値部分を利用する
+                const id = path?.match(/jnc_(\d+)/)?.[1];
 
                 // 賃料を取得
                 const rentElement = room.querySelector(".cassetteitem_other-emphasis.ui-text--bold");
@@ -155,21 +135,40 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                     keyMoney = keyMoneyMatch?.[1] ? Number.parseFloat(keyMoneyMatch[1]) * 10000 : undefined;
                 }
 
+                // 管理費を取得
+                const managementFeeElement = room.querySelector(".cassetteitem_price--administration");
+                const managementFeeText = managementFeeElement?.textContent?.trim();
+                let managementFee: number | undefined = undefined;
+                if (managementFeeText === "-") {
+                    managementFee = 0;
+                } else if (managementFeeText) {
+                    // "4000円" のような文字列から数値を抽出
+                    const managementFeeMatch = managementFeeText.match(/([\d,]+)円/);
+                    if (managementFeeMatch?.[1]) {
+                        // カンマを除去して数値に変換
+                        managementFee = Number.parseInt(managementFeeMatch[1].replace(/,/g, ""), 10);
+                    }
+                }
+
                 // 画像一覧を取得
                 const imageUrlsElement = room.querySelector(".casssetteitem_other-thumbnail.js-view_gallery_images.js-noContextMenu");
                 const imageUrlsText = imageUrlsElement?.getAttribute("data-imgs");
                 const imageUrls = imageUrlsText ? imageUrlsText.split(",") : undefined;
 
+                // サムネイル URL を取得（_co.jpg で終わる URL を優先、なければ物件のサムネイルを使用）
+                const thumbnailUrl = imageUrls?.find(url => url.endsWith("_co.jpg")) || propertyThumbnailUrl;
+
                 // 必須項目が欠けている場合は部屋情報の取得をスキップ
                 if (
-                    id === undefined || 
-                    url === undefined || 
-                    layout === undefined || 
-                    area === undefined || 
-                    floor === undefined || 
-                    rent === undefined || 
-                    securityDeposit === undefined || 
-                    keyMoney === undefined || 
+                    id === undefined ||
+                    url === undefined ||
+                    layout === undefined ||
+                    area === undefined ||
+                    floor === undefined ||
+                    rent === undefined ||
+                    securityDeposit === undefined ||
+                    keyMoney === undefined ||
+                    managementFee === undefined ||
                     imageUrls === undefined
                 ) {
                     const fields = {
@@ -181,6 +180,7 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                         rent: rent,
                         securityDeposit: securityDeposit,
                         keyMoney: keyMoney,
+                        managementFee: managementFee,
                         imageUrls: imageUrls,
                     };
                     this.logger.info(`Skipping room at index (${itemIndex}, ${roomIndex}) due to missing mandatory fields.`);
@@ -188,16 +188,17 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                     return;
                 }
 
-                // 物件データを構築
+                // 部屋データを構築
                 const model: Room = {
                     id: id,
-                    name: title,
-                    address: address,
+                    name: propertyTitle,
+                    address: propertyAddress,
                     layout: layout,
                     area: area,
                     floor: floor,
-                    age: age,
+                    age: propertyAge,
                     rent: rent,
+                    managementFee: managementFee,
                     securityDeposit: securityDeposit,
                     keyMoney: keyMoney,
                     url: url,
@@ -207,12 +208,67 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<Room[]> {
                 };
                 rooms.push(model);
             });
+
+            // 部屋情報が1件もない場合は物件自体をスキップ
+            if (rooms.length === 0) {
+                this.logger.info(`Skipping property at index ${itemIndex} due to no valid rooms.`);
+                return;
+            }
+
+            // 物件の情報を作成する
+            const rentalProperty: RentalProperty = {
+                id: properyID,
+                name: propertyTitle,
+                address: propertyAddress,
+                age: propertyAge,
+                thumbnailUrl: propertyThumbnailUrl,
+                rooms: rooms,
+            };
+            rentalProperties.push(rentalProperty);
         });
 
         // データが 0 件の場合はエラーを投げる
-        if (rooms.length === 0) {
+        if (rentalProperties.length === 0) {
             throw new Error("No rental properties found in the provided HTML.");
         }
-        return rooms;
+        return rentalProperties;
+    }
+
+    /**
+     * 最寄駅情報を取得する
+     * @param elements 最寄駅の要素
+     * @returns 最寄駅の一覧
+     */
+    private scrapeNearStations(elements: NodeListOf<Element>): NearStation[] {
+        const nearStations = Array.from(elements)
+            .map(element => {
+                const text = element.textContent?.trim();
+                if (!text) {
+                    return null;
+                }
+
+                // "京成本線/京成船橋駅 歩7分" のような文字列から駅名と徒歩時間を抽出、駅名部分は路線名を含めて取得する（"京成本線/京成船橋駅"）
+                const match = text.match(/(.+?)\s+歩(\d+)分/);
+                if (!match) {
+                    return null;
+                }
+
+                const name = match[1]?.trim();
+                const walkTimeMinutes = match[2] ? Number.parseInt(match[2], 10) : undefined;
+
+                if (
+                    name === undefined ||
+                    walkTimeMinutes === undefined
+                ) {
+                    return null;
+                }
+
+                return {
+                    name,
+                    walkTimeMinutes,
+                };
+            })
+            .filter((station): station is { name: string; walkTimeMinutes: number } => station !== null);
+        return nearStations;
     }
 }
