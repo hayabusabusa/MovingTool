@@ -15,7 +15,7 @@ public struct APIClient: Sendable {
     /// ページ情報を取得する.
     public var fetchPageInformation: @Sendable () async throws -> PageInformation
     /// 指定されたページの部屋情報を取得する.
-    public var fetchRooms: @Sendable (_ page: Int) async throws -> [Room]
+    public var fetchRentalProperties: @Sendable (_ page: Int) async throws -> [RentalProperty]
 }
 
 extension APIClient: TestDependencyKey {
@@ -26,7 +26,7 @@ extension APIClient: TestDependencyKey {
                 totalProperties: 1,
                 updatedAt: Int(Date().timeIntervalSince1970)
             )
-        } fetchRooms: { page in
+        } fetchRentalProperties: { page in
             []
         }
     }

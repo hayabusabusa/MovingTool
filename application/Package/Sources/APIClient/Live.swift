@@ -20,10 +20,10 @@ extension APIClient: DependencyKey {
             let (data, _) = try await session.data(for: request)
             let decoded = try decoder.decode(PageInformation.self, from: data)
             return decoded
-        } fetchRooms: { page in
+        } fetchRentalProperties: { page in
             let request = try makeURLRequest(path: "\(page).json")
             let (data, _) = try await session.data(for: request)
-            let decoded = try decoder.decode([Room].self, from: data)
+            let decoded = try decoder.decode([RentalProperty].self, from: data)
             return decoded
         }
     }
