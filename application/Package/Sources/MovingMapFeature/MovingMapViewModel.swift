@@ -24,33 +24,44 @@ public final class MovingMapViewModel {
     @Dependency(\.geocodingClient)
     private var geocodingClient
 
-    private(set) var rooms = [Room]()
-    private(set) var coordinateRooms = [Coordinate: [Room]]()
+    private(set) var coordinateRentalProperty = [Coordinate: [RentalProperty]]()
+
+    var isModalPresented = false
 
     public init() {}
+
+    func mapMarkerSelected(for coordinate: Coordinate) {
+        guard coordinateRentalProperty[coordinate] != nil else {
+            return
+        }
+        isModalPresented = true
+    }
+
+    func mapMarkerDeselected() {
+        isModalPresented = false
+    }
 
     func task() {
         Task {
             do {
                 let pageInformation = try await apiClient.fetchPageInformation()
 
-                var allRooms = [Room]()
+                var allProperties = [RentalProperty]()
                 for page in Array(1...pageInformation.totalPages) {
-                    let rooms = try await apiClient.fetchRooms(page: page)
-                    allRooms.append(contentsOf: rooms)
+                    let rentalProperties = try await apiClient.fetchRentalProperties(page: page)
+                    allProperties.append(contentsOf: rentalProperties)
                 }
 
-                let addressGeocodedRooms = try await geocodingClient.appendCoordinate(rooms: allRooms)
-                rooms = allRooms
-                coordinateRooms = addressGeocodedRooms.reduce(into: [Coordinate: [Room]]()) { partialResult, addressGeocodedRoom in
-                    guard let coordinate = addressGeocodedRoom.coordinate else {
+                let addressGeocodedRentalProperties = try await geocodingClient.appendCoordinate(rentalProperties: allProperties)
+                coordinateRentalProperty = addressGeocodedRentalProperties.reduce(into: [Coordinate: [RentalProperty]]()) { partialResult, addressGeocodedRentalProperty in
+                    guard let coordinate = addressGeocodedRentalProperty.coordinate else {
                         return
                     }
 
-                    if let rooms = partialResult[coordinate] {
-                        partialResult[coordinate] = rooms + [addressGeocodedRoom.room]
+                    if let rentalProperty = partialResult[coordinate] {
+                        partialResult[coordinate] = rentalProperty + [addressGeocodedRentalProperty.rentalProperty]
                     } else {
-                        partialResult[coordinate] = [addressGeocodedRoom.room]
+                        partialResult[coordinate] = [addressGeocodedRentalProperty.rentalProperty]
                     }
                 }
             } catch {

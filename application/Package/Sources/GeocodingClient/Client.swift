@@ -13,7 +13,7 @@ import SharedModels
 @DependencyClient
 public struct GeocodingClient: Sendable {
     /// ジオコーディングを行なって住所の文字列から座標を検索して付与する.
-    public var appendCoordinate: @Sendable (_ rooms: [Room]) async throws -> [AddressGeocodedRoom]
+    public var appendCoordinate: @Sendable (_ rentalProperties: [RentalProperty]) async throws -> [AddressGeocodedRentalProperty]
 }
 
 extension GeocodingClient: TestDependencyKey {

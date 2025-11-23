@@ -14,27 +14,27 @@ extension GeocodingClient: DependencyKey {
     public static var liveValue: GeocodingClient {
         let cache = GeocodingCache()
 
-        return .init { rooms in
+        return .init { rentalProperties in
             // 並列でジオコーディングの処理を行う
             await withTaskGroup(
-                of: AddressGeocodedRoom.self,
-                returning: [AddressGeocodedRoom].self
+                of: AddressGeocodedRentalProperty.self,
+                returning: [AddressGeocodedRentalProperty].self
             ) { group in
-                for room in rooms {
+                for rentalProperty in rentalProperties {
                     group.addTask {
                         // キャッシュ済みの座標の場合はキャッシュから読み込んで返す
-                        if let cachedCoordinate = await cache.coordinate(forKey: room.address) {
-                            return AddressGeocodedRoom(
-                                room: room,
+                        if let cachedCoordinate = await cache.coordinate(forKey: rentalProperty.address) {
+                            return AddressGeocodedRentalProperty(
+                                rentalProperty: rentalProperty,
                                 coordinate: cachedCoordinate
                             )
                         }
                         // エラー時は座標を `nil` として扱いたいため、エラーを握りつぶす
-                        guard let request = MKGeocodingRequest(addressString: room.address),
+                        guard let request = MKGeocodingRequest(addressString: rentalProperty.address),
                               let mapItems = try? await request.mapItems,
                               let locationCoordinate = mapItems.first?.location.coordinate else {
-                            return AddressGeocodedRoom(
-                                room: room,
+                            return AddressGeocodedRentalProperty(
+                                rentalProperty: rentalProperty,
                                 coordinate: nil
                             )
                         }
@@ -45,16 +45,16 @@ extension GeocodingClient: DependencyKey {
                         // キャッシュに保存する
                         await cache.setCoordinate(
                             coordinate,
-                            forKey: room.address
+                            forKey: rentalProperty.address
                         )
-                        return AddressGeocodedRoom(
-                            room: room,
+                        return AddressGeocodedRentalProperty(
+                            rentalProperty: rentalProperty,
                             coordinate: coordinate
                         )
                     }
                 }
 
-                var addressGeocodedRooms = [AddressGeocodedRoom]()
+                var addressGeocodedRooms = [AddressGeocodedRentalProperty]()
                 for await addressGeocodedRoom in group {
                     addressGeocodedRooms.append(addressGeocodedRoom)
                 }
