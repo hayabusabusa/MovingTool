@@ -10,7 +10,9 @@ import SwiftUI
 
 public struct AppView: View {
     public var body: some View {
-        MovingMapView(viewModel: MovingMapViewModel())
+        NavigationStack {
+            MovingMapView(viewModel: MovingMapViewModel())
+        }
     }
 
     public init() {}
