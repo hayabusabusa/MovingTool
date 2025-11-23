@@ -43,6 +43,11 @@ export interface Room {
     rent: number;
 
     /**
+     * 管理費・共益費
+     */
+    managementFee: number;
+
+    /**
      * 敷金
      */
     securityDeposit: number;

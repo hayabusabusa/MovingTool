@@ -135,6 +135,21 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<RentalProp
                     keyMoney = keyMoneyMatch?.[1] ? Number.parseFloat(keyMoneyMatch[1]) * 10000 : undefined;
                 }
 
+                // 管理費を取得
+                const managementFeeElement = room.querySelector(".cassetteitem_price--administration");
+                const managementFeeText = managementFeeElement?.textContent?.trim();
+                let managementFee: number | undefined = undefined;
+                if (managementFeeText === "-") {
+                    managementFee = 0;
+                } else if (managementFeeText) {
+                    // "4000円" のような文字列から数値を抽出
+                    const managementFeeMatch = managementFeeText.match(/([\d,]+)円/);
+                    if (managementFeeMatch?.[1]) {
+                        // カンマを除去して数値に変換
+                        managementFee = Number.parseInt(managementFeeMatch[1].replace(/,/g, ""), 10);
+                    }
+                }
+
                 // 画像一覧を取得
                 const imageUrlsElement = room.querySelector(".casssetteitem_other-thumbnail.js-view_gallery_images.js-noContextMenu");
                 const imageUrlsText = imageUrlsElement?.getAttribute("data-imgs");
@@ -150,6 +165,7 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<RentalProp
                     rent === undefined ||
                     securityDeposit === undefined ||
                     keyMoney === undefined ||
+                    managementFee === undefined ||
                     imageUrls === undefined
                 ) {
                     const fields = {
@@ -161,6 +177,7 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<RentalProp
                         rent: rent,
                         securityDeposit: securityDeposit,
                         keyMoney: keyMoney,
+                        managementFee: managementFee,
                         imageUrls: imageUrls,
                     };
                     this.logger.info(`Skipping room at index (${itemIndex}, ${roomIndex}) due to missing mandatory fields.`);
@@ -178,6 +195,7 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<RentalProp
                     floor: floor,
                     age: propertyAge,
                     rent: rent,
+                    managementFee: managementFee,
                     securityDeposit: securityDeposit,
                     keyMoney: keyMoney,
                     url: url,
