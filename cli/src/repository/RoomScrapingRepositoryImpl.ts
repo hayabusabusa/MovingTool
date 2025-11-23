@@ -155,6 +155,9 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<RentalProp
                 const imageUrlsText = imageUrlsElement?.getAttribute("data-imgs");
                 const imageUrls = imageUrlsText ? imageUrlsText.split(",") : undefined;
 
+                // サムネイル URL を取得（_co.jpg で終わる URL を優先、なければ物件のサムネイルを使用）
+                const thumbnailUrl = imageUrls?.find(url => url.endsWith("_co.jpg")) || propertyThumbnailUrl;
+
                 // 必須項目が欠けている場合は部屋情報の取得をスキップ
                 if (
                     id === undefined ||
@@ -200,7 +203,7 @@ export class RoomScrapingRepositoryImpl implements ScrapingRepository<RentalProp
                     keyMoney: keyMoney,
                     url: url,
                     nearStations: nearStations,
-                    thumbnailUrl: propertyThumbnailUrl,
+                    thumbnailUrl: thumbnailUrl,
                     imageUrls: imageUrls,
                 };
                 rooms.push(model);
