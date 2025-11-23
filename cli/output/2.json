@@ -1,5 +1,499 @@
 [
   {
+    "id": "100455077407",
+    "name": "Charmant House",
+    "address": "千葉県船橋市宮本２",
+    "age": 13,
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_gw.jpg",
+    "rooms": [
+      {
+        "id": "000100713635",
+        "name": "Charmant House",
+        "address": "千葉県船橋市宮本２",
+        "layout": "1DK",
+        "area": 32.99,
+        "floor": 1,
+        "age": 13,
+        "rent": 77000,
+        "managementFee": 5000,
+        "securityDeposit": 77000,
+        "keyMoney": 77000,
+        "url": "https://suumo.jp/chintai/jnc_000100713635/?bc=100455077407",
+        "nearStations": [
+          {
+            "name": "ＪＲ総武線/船橋駅",
+            "walkTimeMinutes": 15
+          },
+          {
+            "name": "京成本線/大神宮下駅",
+            "walkTimeMinutes": 2
+          },
+          {
+            "name": "ＪＲ京葉線/南船橋駅",
+            "walkTimeMinutes": 20
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/407/100455077407/100455077407_s6o.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "100473538854",
+    "name": "ＷＩＬＬ　Ｉｃｈｉｋａｗａ",
+    "address": "千葉県市川市市川２",
+    "age": 20,
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_gw.jpg",
+    "rooms": [
+      {
+        "id": "000063507400",
+        "name": "ＷＩＬＬ　Ｉｃｈｉｋａｗａ",
+        "address": "千葉県市川市市川２",
+        "layout": "1K",
+        "area": 29.05,
+        "floor": 1,
+        "age": 20,
+        "rent": 79000,
+        "managementFee": 3500,
+        "securityDeposit": 79000,
+        "keyMoney": 0,
+        "url": "https://suumo.jp/chintai/jnc_000063507400/?bc=100474005412",
+        "nearStations": [
+          {
+            "name": "ＪＲ総武線快速/市川駅",
+            "walkTimeMinutes": 6
+          },
+          {
+            "name": "京成本線/市川真間駅",
+            "walkTimeMinutes": 9
+          },
+          {
+            "name": "京成本線/国府台駅",
+            "walkTimeMinutes": 10
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/412/100474005412/100474005412_s4o.jpg"
+        ]
+      },
+      {
+        "id": "000102927783",
+        "name": "ＷＩＬＬ　Ｉｃｈｉｋａｗａ",
+        "address": "千葉県市川市市川２",
+        "layout": "1K",
+        "area": 28.7,
+        "floor": 2,
+        "age": 20,
+        "rent": 83000,
+        "managementFee": 3500,
+        "securityDeposit": 83000,
+        "keyMoney": 0,
+        "url": "https://suumo.jp/chintai/jnc_000102927783/?bc=100473538854",
+        "nearStations": [
+          {
+            "name": "ＪＲ総武線快速/市川駅",
+            "walkTimeMinutes": 6
+          },
+          {
+            "name": "京成本線/市川真間駅",
+            "walkTimeMinutes": 9
+          },
+          {
+            "name": "京成本線/国府台駅",
+            "walkTimeMinutes": 10
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/854/100473538854/100473538854_s4o.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "100454748357",
+    "name": "Y・Kビル",
+    "address": "千葉県船橋市本町１",
+    "age": 17,
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_gw.jpg",
+    "rooms": [
+      {
+        "id": "000102143732",
+        "name": "Y・Kビル",
+        "address": "千葉県船橋市本町１",
+        "layout": "1K",
+        "area": 25.05,
+        "floor": 4,
+        "age": 17,
+        "rent": 78000,
+        "managementFee": 5000,
+        "securityDeposit": 0,
+        "keyMoney": 0,
+        "url": "https://suumo.jp/chintai/jnc_000102143732/?bc=100454748357",
+        "nearStations": [
+          {
+            "name": "ＪＲ総武線/船橋駅",
+            "walkTimeMinutes": 5
+          },
+          {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 3
+          },
+          {
+            "name": "東葉高速鉄道/東海神駅",
+            "walkTimeMinutes": 12
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/357/100454748357/100454748357_s6o.jpg"
+        ]
+      },
+      {
+        "id": "000100846343",
+        "name": "Y・Kビル",
+        "address": "千葉県船橋市本町１",
+        "layout": "1K",
+        "area": 25.05,
+        "floor": 4,
+        "age": 17,
+        "rent": 80000,
+        "managementFee": 5000,
+        "securityDeposit": 0,
+        "keyMoney": 0,
+        "url": "https://suumo.jp/chintai/jnc_000100846343/?bc=100463733681",
+        "nearStations": [
+          {
+            "name": "ＪＲ総武線/船橋駅",
+            "walkTimeMinutes": 5
+          },
+          {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 3
+          },
+          {
+            "name": "東葉高速鉄道/東海神駅",
+            "walkTimeMinutes": 12
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/681/100463733681/100463733681_s5o.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "100473849011",
+    "name": "LAUREL",
+    "address": "千葉県船橋市湊町２",
+    "age": 14,
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_gw.jpg",
+    "rooms": [
+      {
+        "id": "000102671495",
+        "name": "LAUREL",
+        "address": "千葉県船橋市湊町２",
+        "layout": "1DK",
+        "area": 34.11,
+        "floor": 3,
+        "age": 14,
+        "rent": 80000,
+        "managementFee": 6000,
+        "securityDeposit": 80000,
+        "keyMoney": 80000,
+        "url": "https://suumo.jp/chintai/jnc_000102671495/?bc=100473849011",
+        "nearStations": [
+          {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 11
+          },
+          {
+            "name": "ＪＲ総武線/船橋駅",
+            "walkTimeMinutes": 13
+          },
+          {
+            "name": "京成本線/大神宮下駅",
+            "walkTimeMinutes": 15
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/011/100473849011/100473849011_10o.jpg"
+        ]
+      },
+      {
+        "id": "000102504947",
+        "name": "LAUREL",
+        "address": "千葉県船橋市湊町２",
+        "layout": "1DK",
+        "area": 31.5,
+        "floor": 8,
+        "age": 14,
+        "rent": 80000,
+        "managementFee": 6000,
+        "securityDeposit": 80000,
+        "keyMoney": 80000,
+        "url": "https://suumo.jp/chintai/jnc_000102504947/?bc=100470381871",
+        "nearStations": [
+          {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 11
+          },
+          {
+            "name": "ＪＲ総武線/船橋駅",
+            "walkTimeMinutes": 13
+          },
+          {
+            "name": "京成本線/大神宮下駅",
+            "walkTimeMinutes": 15
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/871/100470381871/100470381871_9o.jpg"
+        ]
+      },
+      {
+        "id": "000102337791",
+        "name": "LAUREL",
+        "address": "千葉県船橋市湊町２",
+        "layout": "1DK",
+        "area": 31.5,
+        "floor": 3,
+        "age": 14,
+        "rent": 78000,
+        "managementFee": 6000,
+        "securityDeposit": 78000,
+        "keyMoney": 78000,
+        "url": "https://suumo.jp/chintai/jnc_000102337791/?bc=100468922467",
+        "nearStations": [
+          {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 11
+          },
+          {
+            "name": "ＪＲ総武線/船橋駅",
+            "walkTimeMinutes": 13
+          },
+          {
+            "name": "京成本線/大神宮下駅",
+            "walkTimeMinutes": 15
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/467/100468922467/100468922467_s5o.jpg"
+        ]
+      },
+      {
+        "id": "000102853422",
+        "name": "LAUREL",
+        "address": "千葉県船橋市湊町２",
+        "layout": "1DK",
+        "area": 31.5,
+        "floor": 4,
+        "age": 14,
+        "rent": 79000,
+        "managementFee": 6000,
+        "securityDeposit": 79000,
+        "keyMoney": 79000,
+        "url": "https://suumo.jp/chintai/jnc_000102853422/?bc=100472999132",
+        "nearStations": [
+          {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 11
+          },
+          {
+            "name": "ＪＲ総武線/船橋駅",
+            "walkTimeMinutes": 13
+          },
+          {
+            "name": "京成本線/大神宮下駅",
+            "walkTimeMinutes": 15
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/132/100472999132/100472999132_s3o.jpg"
+        ]
+      }
+    ]
+  },
+  {
     "id": "100469468731",
     "name": "ＪＲ総武線 西船橋駅 4階建 築10年",
     "address": "千葉県船橋市東中山１",
@@ -58,11 +552,11 @@
     ]
   },
   {
-    "id": "100462932870",
+    "id": "100462878296",
     "name": "ソーヤエイトクファーム",
     "address": "千葉県船橋市西船６",
     "age": 11,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_gw.jpg",
     "rooms": [
       {
         "id": "000101737071",
@@ -76,7 +570,7 @@
         "managementFee": 5500,
         "securityDeposit": 0,
         "keyMoney": 80000,
-        "url": "https://suumo.jp/chintai/jnc_000101737071/?bc=100458836785",
+        "url": "https://suumo.jp/chintai/jnc_000101737071/?bc=100458832489",
         "nearStations": [
           {
             "name": "ＪＲ総武線/西船橋駅",
@@ -91,28 +585,28 @@
             "walkTimeMinutes": 7
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/785/100458836785/100458836785_s5o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/489/100458832489/100458832489_s5o.jpg"
         ]
       },
       {
@@ -127,7 +621,7 @@
         "managementFee": 5500,
         "securityDeposit": 0,
         "keyMoney": 87000,
-        "url": "https://suumo.jp/chintai/jnc_000101752880/?bc=100462932870",
+        "url": "https://suumo.jp/chintai/jnc_000101752880/?bc=100462878296",
         "nearStations": [
           {
             "name": "ＪＲ総武線/西船橋駅",
@@ -142,28 +636,28 @@
             "walkTimeMinutes": 7
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/870/100462932870/100462932870_s5o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/296/100462878296/100462878296_s5o.jpg"
         ]
       }
     ]
@@ -278,15 +772,15 @@
     ]
   },
   {
-    "id": "100466839292",
-    "name": "ＪＲ総武線 西船橋駅 3階建 築7年",
+    "id": "100473994571",
+    "name": "ＪＲ京葉線 西船橋駅 3階建 築7年",
     "address": "千葉県船橋市西船１",
     "age": 7,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_gw.jpg",
     "rooms": [
       {
         "id": "000102238246",
-        "name": "ＪＲ総武線 西船橋駅 3階建 築7年",
+        "name": "ＪＲ京葉線 西船橋駅 3階建 築7年",
         "address": "千葉県船橋市西船１",
         "layout": "1K",
         "area": 25.01,
@@ -296,10 +790,10 @@
         "managementFee": 5000,
         "securityDeposit": 83000,
         "keyMoney": 83000,
-        "url": "https://suumo.jp/chintai/jnc_000102238246/?bc=100467720302",
+        "url": "https://suumo.jp/chintai/jnc_000102238246/?bc=100473994578",
         "nearStations": [
           {
-            "name": "ＪＲ総武線/西船橋駅",
+            "name": "ＪＲ京葉線/西船橋駅",
             "walkTimeMinutes": 9
           },
           {
@@ -308,36 +802,36 @@
           },
           {
             "name": "京成本線/京成西船駅",
-            "walkTimeMinutes": 13
+            "walkTimeMinutes": 14
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/302/100467720302/100467720302_s4o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/578/100473994578/100473994578_s1o.jpg"
         ]
       },
       {
         "id": "000102135233",
-        "name": "ＪＲ総武線 西船橋駅 3階建 築7年",
+        "name": "ＪＲ京葉線 西船橋駅 3階建 築7年",
         "address": "千葉県船橋市西船１",
         "layout": "1K",
         "area": 25.57,
@@ -347,10 +841,10 @@
         "managementFee": 5000,
         "securityDeposit": 84000,
         "keyMoney": 84000,
-        "url": "https://suumo.jp/chintai/jnc_000102135233/?bc=100466839292",
+        "url": "https://suumo.jp/chintai/jnc_000102135233/?bc=100473994571",
         "nearStations": [
           {
-            "name": "ＪＲ総武線/西船橋駅",
+            "name": "ＪＲ京葉線/西船橋駅",
             "walkTimeMinutes": 9
           },
           {
@@ -359,31 +853,31 @@
           },
           {
             "name": "京成本線/京成西船駅",
-            "walkTimeMinutes": 13
+            "walkTimeMinutes": 14
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/292/100466839292/100466839292_s5o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/571/100473994571/100473994571_s1o.jpg"
         ]
       }
     ]
@@ -569,66 +1063,6 @@
     ]
   },
   {
-    "id": "100473341310",
-    "name": "シンシア八番館",
-    "address": "千葉県船橋市本町３",
-    "age": 5,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_gw.jpg",
-    "rooms": [
-      {
-        "id": "000102887354",
-        "name": "シンシア八番館",
-        "address": "千葉県船橋市本町３",
-        "layout": "1K",
-        "area": 25.05,
-        "floor": 3,
-        "age": 5,
-        "rent": 85000,
-        "managementFee": 5000,
-        "securityDeposit": 85000,
-        "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000102887354/?bc=100473341310",
-        "nearStations": [
-          {
-            "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 8
-          },
-          {
-            "name": "ＪＲ総武線/船橋駅",
-            "walkTimeMinutes": 10
-          },
-          {
-            "name": "京成本線/大神宮下駅",
-            "walkTimeMinutes": 5
-          }
-        ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_co.jpg",
-        "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/310/100473341310/100473341310_s5o.jpg"
-        ]
-      }
-    ]
-  },
-  {
     "id": "100473351800",
     "name": "京成本線 京成船橋駅 5階建 築5年",
     "address": "千葉県船橋市本町３",
@@ -749,15 +1183,15 @@
     ]
   },
   {
-    "id": "100471256339",
-    "name": "Ｒｅｌａｃｈｅ船橋",
+    "id": "100471867012",
+    "name": "Relache船橋",
     "address": "千葉県船橋市本町３",
     "age": 8,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_gw.jpg",
     "rooms": [
       {
         "id": "000102594990",
-        "name": "Ｒｅｌａｃｈｅ船橋",
+        "name": "Relache船橋",
         "address": "千葉県船橋市本町３",
         "layout": "1LDK",
         "area": 34.83,
@@ -767,48 +1201,48 @@
         "managementFee": 8000,
         "securityDeposit": 83000,
         "keyMoney": 83000,
-        "url": "https://suumo.jp/chintai/jnc_000102594990/?bc=100471256339",
+        "url": "https://suumo.jp/chintai/jnc_000102594990/?bc=100471867012",
         "nearStations": [
           {
             "name": "ＪＲ総武線/船橋駅",
-            "walkTimeMinutes": 8
-          },
-          {
-            "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 7
+            "walkTimeMinutes": 10
           },
           {
             "name": "京成本線/大神宮下駅",
-            "walkTimeMinutes": 12
+            "walkTimeMinutes": 8
+          },
+          {
+            "name": "京成本線/船橋競馬場駅",
+            "walkTimeMinutes": 17
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/339/100471256339/100471256339_s2o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/012/100471867012/100471867012_9o.jpg"
         ]
       },
       {
         "id": "000102594991",
-        "name": "Ｒｅｌａｃｈｅ船橋",
+        "name": "Relache船橋",
         "address": "千葉県船橋市本町３",
         "layout": "1LDK",
         "area": 34.63,
@@ -822,15 +1256,15 @@
         "nearStations": [
           {
             "name": "ＪＲ総武線/船橋駅",
-            "walkTimeMinutes": 8
-          },
-          {
-            "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 7
+            "walkTimeMinutes": 10
           },
           {
             "name": "京成本線/大神宮下駅",
-            "walkTimeMinutes": 12
+            "walkTimeMinutes": 8
+          },
+          {
+            "name": "京成本線/船橋競馬場駅",
+            "walkTimeMinutes": 17
           }
         ],
         "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/924/100470998924/100470998924_co.jpg",
@@ -860,11 +1294,11 @@
     ]
   },
   {
-    "id": "100469557772",
+    "id": "100469700355",
     "name": "クレスト",
     "address": "千葉県船橋市市場３",
     "age": 19,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_gw.jpg",
     "rooms": [
       {
         "id": "000102439997",
@@ -878,7 +1312,7 @@
         "managementFee": 5000,
         "securityDeposit": 0,
         "keyMoney": 88000,
-        "url": "https://suumo.jp/chintai/jnc_000102439997/?bc=100469557772",
+        "url": "https://suumo.jp/chintai/jnc_000102439997/?bc=100469700355",
         "nearStations": [
           {
             "name": "ＪＲ総武線快速/船橋駅",
@@ -893,28 +1327,28 @@
             "walkTimeMinutes": 18
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/772/100469557772/100469557772_s3o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/355/100469700355/100469700355_s3o.jpg"
         ]
       }
     ]
@@ -998,7 +1432,7 @@
         "managementFee": 4000,
         "securityDeposit": 90000,
         "keyMoney": 90000,
-        "url": "https://suumo.jp/chintai/jnc_000101389567/?bc=100459106966",
+        "url": "https://suumo.jp/chintai/jnc_000101389567/?bc=100474209099",
         "nearStations": [
           {
             "name": "ＪＲ総武線/船橋駅",
@@ -1013,28 +1447,28 @@
             "walkTimeMinutes": 12
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/966/100459106966/100459106966_11o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/099/100474209099/100474209099_s6o.jpg"
         ]
       },
       {
@@ -1091,11 +1525,11 @@
     ]
   },
   {
-    "id": "100470337219",
+    "id": "100448825485",
     "name": "日神デュオステージ船橋",
     "address": "千葉県船橋市宮本１",
     "age": 18,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/219/100470337219/100470337219_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_gw.jpg",
     "rooms": [
       {
         "id": "000099524746",
@@ -1109,7 +1543,7 @@
         "managementFee": 10000,
         "securityDeposit": 0,
         "keyMoney": 85000,
-        "url": "https://suumo.jp/chintai/jnc_000099524746/?bc=100446544496",
+        "url": "https://suumo.jp/chintai/jnc_000099524746/?bc=100448825485",
         "nearStations": [
           {
             "name": "ＪＲ総武線快速/船橋駅",
@@ -1117,35 +1551,35 @@
           },
           {
             "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 10
+            "walkTimeMinutes": 9
           },
           {
-            "name": "京成本線/大神宮下駅",
-            "walkTimeMinutes": 8
+            "name": "東葉高速鉄道/東海神駅",
+            "walkTimeMinutes": 13
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/496/100446544496/100446544496_11o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/485/100448825485/100448825485_s6o.jpg"
         ]
       },
       {
@@ -1168,11 +1602,11 @@
           },
           {
             "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 10
+            "walkTimeMinutes": 9
           },
           {
-            "name": "京成本線/大神宮下駅",
-            "walkTimeMinutes": 8
+            "name": "東葉高速鉄道/東海神駅",
+            "walkTimeMinutes": 13
           }
         ],
         "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/219/100470337219/100470337219_co.jpg",
@@ -1309,71 +1743,11 @@
     ]
   },
   {
-    "id": "100463903594",
-    "name": "ヴランドール船橋駅前北口",
-    "address": "千葉県船橋市本町５",
-    "age": 5,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_gw.jpg",
-    "rooms": [
-      {
-        "id": "000101349867",
-        "name": "ヴランドール船橋駅前北口",
-        "address": "千葉県船橋市本町５",
-        "layout": "1K",
-        "area": 25.19,
-        "floor": 1,
-        "age": 5,
-        "rent": 90000,
-        "managementFee": 5000,
-        "securityDeposit": 90000,
-        "keyMoney": 90000,
-        "url": "https://suumo.jp/chintai/jnc_000101349867/?bc=100463903594",
-        "nearStations": [
-          {
-            "name": "ＪＲ総武線/船橋駅",
-            "walkTimeMinutes": 3
-          },
-          {
-            "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 4
-          },
-          {
-            "name": "東葉高速鉄道/東海神駅",
-            "walkTimeMinutes": 10
-          }
-        ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_co.jpg",
-        "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/594/100463903594/100463903594_s1o.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "100473286046",
+    "id": "100473217807",
     "name": "山文ビル",
     "address": "千葉県市川市市川南１",
     "age": 12,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_gw.jpg",
     "rooms": [
       {
         "id": "000102892805",
@@ -1387,7 +1761,7 @@
         "managementFee": 3000,
         "securityDeposit": 93000,
         "keyMoney": 93000,
-        "url": "https://suumo.jp/chintai/jnc_000102892805/?bc=100473286046",
+        "url": "https://suumo.jp/chintai/jnc_000102892805/?bc=100473217807",
         "nearStations": [
           {
             "name": "ＪＲ総武線/市川駅",
@@ -1402,25 +1776,25 @@
             "walkTimeMinutes": 17
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/046/100473286046/100473286046_s2o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/807/100473217807/100473217807_s2o.jpg"
         ]
       },
       {
@@ -1476,25 +1850,25 @@
     ]
   },
   {
-    "id": "100460788080",
+    "id": "100445375999",
     "name": "オーキッドレジデンス船橋本町",
     "address": "千葉県船橋市本町２",
     "age": 10,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_gw.jpg",
     "rooms": [
       {
         "id": "000101578337",
         "name": "オーキッドレジデンス船橋本町",
         "address": "千葉県船橋市本町２",
         "layout": "1K",
-        "area": 25.08,
+        "area": 26.23,
         "floor": 2,
         "age": 10,
         "rent": 90000,
         "managementFee": 6000,
         "securityDeposit": 90000,
         "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000101578337/?bc=100460788080",
+        "url": "https://suumo.jp/chintai/jnc_000101578337/?bc=100460864087",
         "nearStations": [
           {
             "name": "ＪＲ総武線/船橋駅",
@@ -1509,28 +1883,27 @@
             "walkTimeMinutes": 15
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460788080/100460788080_s3o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/087/100460864087/100460864087_s5o.jpg"
         ]
       },
       {
@@ -1539,13 +1912,13 @@
         "address": "千葉県船橋市本町２",
         "layout": "1K",
         "area": 25.08,
-        "floor": 2,
+        "floor": 3,
         "age": 10,
         "rent": 90000,
         "managementFee": 6000,
         "securityDeposit": 90000,
         "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000102641384/?bc=100471595660",
+        "url": "https://suumo.jp/chintai/jnc_000102641384/?bc=100471559137",
         "nearStations": [
           {
             "name": "ＪＲ総武線/船橋駅",
@@ -1560,28 +1933,28 @@
             "walkTimeMinutes": 15
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/660/100471595660/100471595660_s5o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/137/100471559137/100471559137_s6o.jpg"
         ]
       },
       {
@@ -1596,7 +1969,7 @@
         "managementFee": 6000,
         "securityDeposit": 91000,
         "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000100625706/?bc=100463726599",
+        "url": "https://suumo.jp/chintai/jnc_000100625706/?bc=100445375999",
         "nearStations": [
           {
             "name": "ＪＲ総武線/船橋駅",
@@ -1611,28 +1984,28 @@
             "walkTimeMinutes": 15
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/599/100463726599/100463726599_s4o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/999/100445375999/100445375999_s3o.jpg"
         ]
       },
       {
@@ -1849,167 +2222,165 @@
     ]
   },
   {
-    "id": "100462559035",
-    "name": "Ａｌｉｖｉｓ船橋Ｅａｓｔ．Ｗｅｓｔ",
+    "id": "100473873472",
+    "name": "Alivis船橋East.West",
     "address": "千葉県船橋市本町１",
-    "age": 13,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_gw.jpg",
+    "age": 1,
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_gw.jpg",
     "rooms": [
       {
-        "id": "000102496684",
-        "name": "Ａｌｉｖｉｓ船橋Ｅａｓｔ．Ｗｅｓｔ",
+        "id": "000102496685",
+        "name": "Alivis船橋East.West",
         "address": "千葉県船橋市本町１",
         "layout": "1K",
         "area": 33.61,
         "floor": 5,
-        "age": 13,
+        "age": 1,
         "rent": 90000,
         "managementFee": 10000,
         "securityDeposit": 0,
         "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000102496684/?bc=100450184497",
+        "url": "https://suumo.jp/chintai/jnc_000102496685/?bc=100473873472",
         "nearStations": [
+          {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 4
+          },
           {
             "name": "ＪＲ総武線/船橋駅",
             "walkTimeMinutes": 5
           },
           {
+            "name": "東葉高速鉄道/東海神駅",
+            "walkTimeMinutes": 14
+          }
+        ],
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_co.jpg",
+        "imageUrls": [
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/472/100473873472/100473873472_11o.jpg"
+        ]
+      },
+      {
+        "id": "000102496684",
+        "name": "Alivis船橋East.West",
+        "address": "千葉県船橋市本町１",
+        "layout": "1K",
+        "area": 33.61,
+        "floor": 5,
+        "age": 1,
+        "rent": 90000,
+        "managementFee": 10000,
+        "securityDeposit": 0,
+        "keyMoney": 0,
+        "url": "https://suumo.jp/chintai/jnc_000102496684/?bc=100450187396",
+        "nearStations": [
+          {
             "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 2
+            "walkTimeMinutes": 4
+          },
+          {
+            "name": "ＪＲ総武線/船橋駅",
+            "walkTimeMinutes": 5
           },
           {
             "name": "東葉高速鉄道/東海神駅",
-            "walkTimeMinutes": 12
+            "walkTimeMinutes": 14
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/497/100450184497/100450184497_3o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/396/100450187396/100450187396_3o.jpg"
         ]
       },
       {
         "id": "000102970484",
-        "name": "Ａｌｉｖｉｓ船橋Ｅａｓｔ．Ｗｅｓｔ",
+        "name": "Alivis船橋East.West",
         "address": "千葉県船橋市本町１",
         "layout": "1K",
         "area": 33.61,
         "floor": 5,
-        "age": 13,
+        "age": 1,
         "rent": 90000,
         "managementFee": 10000,
         "securityDeposit": 0,
         "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000102970484/?bc=100462560179",
+        "url": "https://suumo.jp/chintai/jnc_000102970484/?bc=100473889520",
         "nearStations": [
+          {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 4
+          },
           {
             "name": "ＪＲ総武線/船橋駅",
             "walkTimeMinutes": 5
           },
           {
-            "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 2
-          },
-          {
             "name": "東葉高速鉄道/東海神駅",
-            "walkTimeMinutes": 12
+            "walkTimeMinutes": 14
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/179/100462560179/100462560179_s4o.jpg"
-        ]
-      },
-      {
-        "id": "000102496685",
-        "name": "Ａｌｉｖｉｓ船橋Ｅａｓｔ．Ｗｅｓｔ",
-        "address": "千葉県船橋市本町１",
-        "layout": "1K",
-        "area": 33.61,
-        "floor": 5,
-        "age": 13,
-        "rent": 90000,
-        "managementFee": 10000,
-        "securityDeposit": 0,
-        "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000102496685/?bc=100462559035",
-        "nearStations": [
-          {
-            "name": "ＪＲ総武線/船橋駅",
-            "walkTimeMinutes": 5
-          },
-          {
-            "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 2
-          },
-          {
-            "name": "東葉高速鉄道/東海神駅",
-            "walkTimeMinutes": 12
-          }
-        ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_co.jpg",
-        "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/035/100462559035/100462559035_s4o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/520/100473889520/100473889520_s4o.jpg"
         ]
       },
       {
         "id": "000102562923",
-        "name": "Ａｌｉｖｉｓ船橋Ｅａｓｔ．Ｗｅｓｔ",
+        "name": "Alivis船橋East.West",
         "address": "千葉県船橋市本町１",
         "layout": "1K",
         "area": 33.61,
         "floor": 5,
-        "age": 13,
+        "age": 1,
         "rent": 90000,
         "managementFee": 10000,
         "securityDeposit": 0,
@@ -2017,16 +2388,16 @@
         "url": "https://suumo.jp/chintai/jnc_000102562923/?bc=100464498223",
         "nearStations": [
           {
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 4
+          },
+          {
             "name": "ＪＲ総武線/船橋駅",
             "walkTimeMinutes": 5
           },
           {
-            "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 2
-          },
-          {
             "name": "東葉高速鉄道/東海神駅",
-            "walkTimeMinutes": 12
+            "walkTimeMinutes": 14
           }
         ],
         "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/223/100464498223/100464498223_co.jpg",
@@ -2219,11 +2590,11 @@
     ]
   },
   {
-    "id": "100466161214",
+    "id": "100463905413",
     "name": "リブリ・ＳＯＬＡＲＥ",
     "address": "千葉県船橋市湊町２",
     "age": 16,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_gw.jpg",
     "rooms": [
       {
         "id": "000018236942",
@@ -2237,43 +2608,39 @@
         "managementFee": 5000,
         "securityDeposit": 0,
         "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000018236942/?bc=100466161214",
+        "url": "https://suumo.jp/chintai/jnc_000018236942/?bc=100463905413",
         "nearStations": [
           {
-            "name": "京成本線/京成船橋駅",
+            "name": "ＪＲ総武線/船橋駅",
             "walkTimeMinutes": 13
           },
           {
-            "name": "京成本線/大神宮下駅",
-            "walkTimeMinutes": 15
-          },
-          {
-            "name": "ＪＲ総武線快速/船橋駅",
-            "walkTimeMinutes": 15
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 12
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/214/100466161214/100466161214_9o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/413/100463905413/100463905413_s6o.jpg"
         ]
       },
       {
@@ -2288,43 +2655,39 @@
         "managementFee": 5000,
         "securityDeposit": 0,
         "keyMoney": 0,
-        "url": "https://suumo.jp/chintai/jnc_000074255202/?bc=100466851422",
+        "url": "https://suumo.jp/chintai/jnc_000074255202/?bc=100472271298",
         "nearStations": [
           {
-            "name": "京成本線/京成船橋駅",
+            "name": "ＪＲ総武線/船橋駅",
             "walkTimeMinutes": 13
           },
           {
-            "name": "京成本線/大神宮下駅",
-            "walkTimeMinutes": 15
-          },
-          {
-            "name": "ＪＲ総武線快速/船橋駅",
-            "walkTimeMinutes": 15
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 12
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/422/100466851422/100466851422_s2o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/298/100472271298/100472271298_s6o.jpg"
         ]
       },
       {
@@ -2342,16 +2705,12 @@
         "url": "https://suumo.jp/chintai/jnc_000017767805/?bc=100466924400",
         "nearStations": [
           {
-            "name": "京成本線/京成船橋駅",
+            "name": "ＪＲ総武線/船橋駅",
             "walkTimeMinutes": 13
           },
           {
-            "name": "京成本線/大神宮下駅",
-            "walkTimeMinutes": 15
-          },
-          {
-            "name": "ＪＲ総武線快速/船橋駅",
-            "walkTimeMinutes": 15
+            "name": "京成本線/京成船橋駅",
+            "walkTimeMinutes": 12
           }
         ],
         "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/400/100466924400/100466924400_co.jpg",
@@ -2785,15 +3144,15 @@
     ]
   },
   {
-    "id": "100460432080",
-    "name": "サウス　パーク",
+    "id": "100471545785",
+    "name": "SOUTH PARK",
     "address": "千葉県船橋市海神１",
     "age": 11,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/785/100471545785/100471545785_gw.jpg",
     "rooms": [
       {
         "id": "000101548529",
-        "name": "サウス　パーク",
+        "name": "SOUTH PARK",
         "address": "千葉県船橋市海神１",
         "layout": "1K",
         "area": 25.39,
@@ -2803,7 +3162,7 @@
         "managementFee": 5000,
         "securityDeposit": 70000,
         "keyMoney": 70000,
-        "url": "https://suumo.jp/chintai/jnc_000101548529/?bc=100460432080",
+        "url": "https://suumo.jp/chintai/jnc_000101548529/?bc=100471156693",
         "nearStations": [
           {
             "name": "ＪＲ総武線/船橋駅",
@@ -2818,32 +3177,33 @@
             "walkTimeMinutes": 12
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/080/100460432080/100460432080_s4o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/693/100471156693/100471156693_s6o.jpg"
         ]
       },
       {
         "id": "000102621270",
-        "name": "サウス　パーク",
+        "name": "SOUTH PARK",
         "address": "千葉県船橋市海神１",
         "layout": "1K",
         "area": 25.39,
@@ -3285,15 +3645,15 @@
     ]
   },
   {
-    "id": "100471616876",
-    "name": "ミリアビタＮｏ．１８",
+    "id": "100473044856",
+    "name": "ミリアビタＮＯ18",
     "address": "千葉県船橋市本町３",
     "age": 14,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_gw.jpg",
+    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_gw.jpg",
     "rooms": [
       {
         "id": "000068007879",
-        "name": "ミリアビタＮｏ．１８",
+        "name": "ミリアビタＮＯ18",
         "address": "千葉県船橋市本町３",
         "layout": "1K",
         "area": 26.16,
@@ -3303,10 +3663,10 @@
         "managementFee": 6000,
         "securityDeposit": 70000,
         "keyMoney": 70000,
-        "url": "https://suumo.jp/chintai/jnc_000068007879/?bc=100471616876",
+        "url": "https://suumo.jp/chintai/jnc_000068007879/?bc=100473044856",
         "nearStations": [
           {
-            "name": "京成本線/京成船橋駅",
+            "name": "ＪＲ総武線/船橋駅",
             "walkTimeMinutes": 9
           },
           {
@@ -3314,32 +3674,32 @@
             "walkTimeMinutes": 6
           },
           {
-            "name": "ＪＲ総武線/船橋駅",
+            "name": "京成本線/京成船橋駅",
             "walkTimeMinutes": 10
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/876/100471616876/100471616876_s1o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_11o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/856/100473044856/100473044856_s6o.jpg"
         ]
       }
     ]
@@ -3703,7 +4063,7 @@
         "managementFee": 4000,
         "securityDeposit": 0,
         "keyMoney": 75000,
-        "url": "https://suumo.jp/chintai/jnc_000102476871/?bc=100469983150",
+        "url": "https://suumo.jp/chintai/jnc_000102476871/?bc=100470536554",
         "nearStations": [
           {
             "name": "東京メトロ東西線/原木中山駅",
@@ -3718,28 +4078,28 @@
             "walkTimeMinutes": 20
           }
         ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_co.jpg",
+        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_co.jpg",
         "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/150/100469983150/100469983150_s6o.jpg"
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_go.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_co.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_ro.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_7o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_10o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_8o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_9o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_s6o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_s2o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_s4o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_s3o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_s5o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_s1o.jpg",
+          "https://img01.suumo.com/front/gazo/fr/bukken/554/100470536554/100470536554_11o.jpg"
         ]
       }
     ]
@@ -3854,126 +4214,6 @@
           "https://img01.suumo.com/front/gazo/fr/bukken/085/100447950085/100447950085_6o.jpg",
           "https://img01.suumo.com/front/gazo/fr/bukken/085/100447950085/100447950085_8o.jpg",
           "https://img01.suumo.com/front/gazo/fr/bukken/085/100447950085/100447950085_11o.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "100469034460",
-    "name": "ＪＲ総武線 船橋駅 3階建 築12年",
-    "address": "千葉県船橋市本町２",
-    "age": 12,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_gw.jpg",
-    "rooms": [
-      {
-        "id": "000102385927",
-        "name": "ＪＲ総武線 船橋駅 3階建 築12年",
-        "address": "千葉県船橋市本町２",
-        "layout": "1K",
-        "area": 28.56,
-        "floor": 1,
-        "age": 12,
-        "rent": 75000,
-        "managementFee": 4000,
-        "securityDeposit": 0,
-        "keyMoney": 75000,
-        "url": "https://suumo.jp/chintai/jnc_000102385927/?bc=100469034460",
-        "nearStations": [
-          {
-            "name": "ＪＲ総武線/船橋駅",
-            "walkTimeMinutes": 9
-          },
-          {
-            "name": "京成本線/京成船橋駅",
-            "walkTimeMinutes": 7
-          },
-          {
-            "name": "東葉高速鉄道/東海神駅",
-            "walkTimeMinutes": 12
-          }
-        ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_co.jpg",
-        "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_s6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/460/100469034460/100469034460_s4o.jpg"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "100467162955",
-    "name": "ルミエールI",
-    "address": "千葉県船橋市山野町",
-    "age": 14,
-    "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_gw.jpg",
-    "rooms": [
-      {
-        "id": "000102169153",
-        "name": "ルミエールI",
-        "address": "千葉県船橋市山野町",
-        "layout": "1K",
-        "area": 26.73,
-        "floor": 3,
-        "age": 14,
-        "rent": 74000,
-        "managementFee": 5000,
-        "securityDeposit": 0,
-        "keyMoney": 74000,
-        "url": "https://suumo.jp/chintai/jnc_000102169153/?bc=100467162955",
-        "nearStations": [
-          {
-            "name": "ＪＲ総武線/西船橋駅",
-            "walkTimeMinutes": 5
-          },
-          {
-            "name": "東京メトロ東西線/西船橋駅",
-            "walkTimeMinutes": 5
-          },
-          {
-            "name": "ＪＲ京葉線/西船橋駅",
-            "walkTimeMinutes": 5
-          }
-        ],
-        "thumbnailUrl": "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_co.jpg",
-        "imageUrls": [
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_go.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_co.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_ro.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_6o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_7o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_10o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_9o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_11o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_8o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_s1o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_s2o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_s3o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_s4o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_s5o.jpg",
-          "https://img01.suumo.com/front/gazo/fr/bukken/955/100467162955/100467162955_s6o.jpg"
         ]
       }
     ]
